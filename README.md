@@ -1,5 +1,10 @@
 <h2 align="left">Olá 👋! Eu sou a Sabrina </h2>
-
+#
+<p align="center">👩‍💻 Estudante de Front-end & UX Design | 
+📍 Marketing de formação | Explorando HTML, CSS, JavaScript e Figma.
+📂 Em constante aprendizado e construindo meu portfólio por aqui!.
+  
+#
 ###
 
 <div align="center">
