@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋! Eu sou a Sabrina </h2>
 
 <p align="center">👩‍💻 Estudante de Front-end & UX Design | 
-📍 Marketing de formação | Explorando HTML, CSS, Java.
+📍 Marketing de formação | Explorando o mundo da programação.
 📂 Em constante aprendizado e construindo meu portfólio por aqui!.
   
 #
